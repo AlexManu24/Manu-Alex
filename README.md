@@ -1,8 +1,6 @@
 # Manu-Alex
 Yumfo-INFOEDUCATIE
 
-Documentatia: in dosarul cu acest fisier README.
-Prezentarea Proiectului: in dosarul cu acest fisier README.
 Coduri sursa: in dosarele  Surse -> Assets -> Script.
 Sunete: in dosarul Surse -> Assets -> Audio.
 Grafici: in dosarul Surse -> Assets -> Arty.
