@@ -1,9 +1,9 @@
 # Manu-Alex
 Yumfo-INFOEDUCATIE
 
-Coduri sursa: in dosarele  Surse -> Assets -> Script.
-Sunete: in dosarul Surse -> Assets -> Audio.
-Grafici: in dosarul Surse -> Assets -> Arty.
+Coduri sursa: in arhiva  Surse -> Assets -> Script.
+Sunete: in arhiva Surse -> Assets -> Audio.
+Grafici: in arhiva Surse -> Assets -> Arty.
 Joc Android: pe site-ul https://play.google.com/store/apps/details?id=com.ManuAlexGames.Impossible
 Joc PC: Pe site-ul http://yumfo.wecode.ro/
 Joc Browser: Pe site-ul http://yumfo.wecode.ro/Net.html
