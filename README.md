@@ -1,2 +1,0 @@
-# Manu-Alex
-Yumfo-INFOEDUCATIE
